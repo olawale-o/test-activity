@@ -1,0 +1,23 @@
+{
+  "name": "test-activity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olawale-o/test-activity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olawale-o/test-activity/issues"
+  },
+  "homepage": "https://github.com/olawale-o/test-activity#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
