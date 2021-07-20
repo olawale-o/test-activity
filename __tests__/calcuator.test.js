@@ -1,4 +1,4 @@
-const { add, sub, divide, multiply } = require('./calculator.js');
+const { add, sub, divide, multiply } = require('../calculator.js');
 
 describe('Calculator', () => {
   describe('Calculator -> Add', () => {

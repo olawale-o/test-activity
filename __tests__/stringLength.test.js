@@ -1,4 +1,4 @@
-const stringLength =  require('./stringLength.js');
+const stringLength =  require('../stringLength.js');
 
 test('length of helloworld to equal 10', () => {
   //Arrange

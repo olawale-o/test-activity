@@ -1,4 +1,4 @@
-const reverseString = require('./reverseString.js');
+const reverseString = require('../reverseString.js');
 
 test('hello should equal olleh', () => {
   // Arrange
